@@ -1,0 +1,25 @@
+h3{
+    color: rgb(231, 88, 112);
+
+}
+body{
+        background: lightblue;
+        height: 30px;
+    }
+}
+(/body)
+<html>
+    <head>
+        <style>
+        div.fixed {
+            position: fixed;
+            top: 100px;
+            width: 300px;
+            padding: 10px 20px;
+            background: #73ad21;
+        }
+        </style>
+    </head>
+
+
+</body>
